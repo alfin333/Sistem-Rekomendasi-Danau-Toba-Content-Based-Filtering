@@ -1,5 +1,5 @@
 # Sistem-Rekomendasi-Danau-Toba-Content-Based-Filtering
-Project ini adalah untuk memberikan sistem rekomendasi pada danau toba untuk mencari wisata yang mirip
+Project ini adalah untuk memberikan sistem rekomendasi pada Danau Toba untuk mencari wisata yang mirip
 
 - Folder "TextPreprocessing" untuk tahapan pembersihan/penyesuaian dataset agar bisa dilakukan sistem rekomendasi, pada file ipynb di folder ini, jangan lupa install library nltk dan sastrawi
 -**pip install nltk**
